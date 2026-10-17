@@ -1,0 +1,32 @@
+{
+    "id": "BC580E39",
+    "path": "/cloud/project/greener_pastures_case_study_doc.qmd",
+    "project_path": "greener_pastures_case_study_doc.qmd",
+    "type": "quarto_markdown",
+    "hash": "2379897495",
+    "contents": "",
+    "dirty": false,
+    "created": 1786295630305.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,16",
+        "scrollLine": "0",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1792254225,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1792254225301,
+    "read_only": false,
+    "read_only_alternatives": []
+}
