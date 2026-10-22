@@ -57,4 +57,4 @@ greener-pastures-case-study/
 
 *Data Analysis Portfolio Project*
 
-(GitHub Profile)[https://github.com/AndrewSRea]
+[GitHub Profile](https://github.com/AndrewSRea)
