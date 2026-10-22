@@ -44,11 +44,11 @@ executive report using **Quarto**.
 
 ```text
 greener-pastures-case-study/
-|--- index.qmd            # Main Quarto executive report document
-|--- _quarto.yml          # Quarto configuration and YAML styling options
-|--- data/                # Processed and cleaned federal datasets
-|--- figures/             # Exported spatial maps and correlation plots
-|___ README.md            # Project documentation and executive overview
+├── index.qmd             # Main Quarto executive report document
+├── _quarto.yml           # Quarto configuration and YAML styling options
+├── data/                 # Processed and cleaned federal datasets
+├── figures/              # Exported spatial maps and correlation plots
+└── README.md             # Project documentation and executive overview
 ```
 
 ## Author & Contact
