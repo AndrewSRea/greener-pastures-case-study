@@ -1,6 +1,7 @@
 # Greener Pastures: 2024-2027 Economic Expansion Roadmap
 
 [![Live Report](https://img.shields.io/badge/View-Live%20Report%20(GitHub%20Pages)-007100?style=for-the-badge&logo=github)](https://andrewsrea.github.io/greener-pastures-case-study/)
+[![Source Code](https://img.shields.io/badge/View-Quarto%20Source%20Code-276DC2?style=for-the-badge&logo=rstudio)](https://github.com/AndrewSRea/greener_pastures_case_study_source_code/blob/main/migration_test_5.R)
 
 ## Executive Overview
 
