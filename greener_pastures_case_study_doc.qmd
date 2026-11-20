@@ -2459,7 +2459,7 @@ ggplot() +
   
   # Labels
   labs(
-    title = "Greener Pastures 2024-2027 Expnasion Strategy",
+    title = "Greener Pastures 2024-2027 Expansion Strategy",
     subtitle = "Top 15 Markets Ranked by Migration Velocity, Wealth Gap, and Job Momentum",
     color = "Investment Tier",
     caption = "Data Source: U.S. Census Bureau & Bureau of Labor Statistics"
